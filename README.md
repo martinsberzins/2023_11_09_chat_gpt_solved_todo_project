@@ -1,1 +1,3 @@
-# 2023_11_09_chat_gpt_solved_todo_project
+# ChatGPT risinājums ToDo lietotnei
+
+Šis ir ChatGPT risinājums ToDo lietotnei, iekopējot uzdevuma noteikumus no https://programmesana2.lv/web/to-do-app-1
